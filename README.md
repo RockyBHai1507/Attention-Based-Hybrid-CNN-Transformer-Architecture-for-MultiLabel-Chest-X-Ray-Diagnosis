@@ -118,17 +118,6 @@ Highlights include:
 
 ## Project Structure
 
-```
-Hybrid-ChestXray/
-
-├── app.py
-├── hybrid_model_new/
-├── notebooks/
-├── images/
-├── report/
-├── requirements.txt
-└── README.md
-```
 
 ---
 
